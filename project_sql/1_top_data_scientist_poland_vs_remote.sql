@@ -3,6 +3,7 @@ Question: Compare Top 7 Job Postings from Poland vs Top 7 Remote Job Postings.
 Goal: Visualize the "salary ceiling" in both categories, highlighting the differences between local and global markets.
 */
 
+
 (
     -- STEP 1: Top 7 Job Postings from Poland
     SELECT
