@@ -1,7 +1,7 @@
 /*
 Question: What are the most in-demand skills for Data Scientists?
 Goal: Identify the top 5 skills required for Data Scientist jobs in Poland or remotely to guide learning focus.
-Methodology:
+Method:
     1. Filter job postings for 'Data Scientist' positions located in 'Poland' OR 'Anywhere' (Remote).
     2. Group by skill name and count the number of job postings for each skill.
     3. Order by demand count in descending order to find the most popular skills.
