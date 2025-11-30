@@ -1,3 +1,4 @@
+# Data Scientist Job Market: Poland vs. Remote (SQL Analysis)
 # Introduction
 This project analyzes the Data Science job market. I focused on comparing jobs in Poland with Remote work opportunities globally.
 
