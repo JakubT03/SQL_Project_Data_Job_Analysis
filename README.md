@@ -254,20 +254,6 @@ During this project, I improved my SQL skills and learned about the industry:
 
 * Market Insight: I learned that general skills (like SQL) are good for finding a job, but specialized skills are better for finding a high-paying job.
 # Conclusions
-Here are my main takeaways from the analysis:
-
-1.Leadership skills pay well: Tools like Asana, Notion, and Slack have high average salaries. This means senior roles (managers) earn the most.
-
-2.Special skills are valuable: Rare technologies (like Solidity or Elixir) pay a lot because few people know them.
-
-3.Cloud skills are essential: Companies pay well for skills like Airflow and BigQuery. They need people who can work with data in the cloud.
-
-4.The Basics: Even though rare skills pay well, you simply cannot work in Data Science without SQL and Python. They are the foundation.
-
-
-### Insights
-From the analysis, I found these key points:
-
 1.  **Remote Jobs Pay More:** Remote work offers much higher salaries than local jobs in Poland. The best remote job pays **$550,000**, while the best job in Poland pays about **$187,000**.
 2.  **Skills for Top Jobs:** To earn a lot of money, you need more than just coding. **SQL and Python** are basic requirements, but top jobs also need **Cloud skills** (like Azure, Snowflake) and data visualization (Tableau).
 3.  **Most Popular Skills:** **Python and SQL** are the most popular skills. Companies in Poland and globally ask for them the most.
