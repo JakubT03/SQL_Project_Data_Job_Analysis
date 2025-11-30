@@ -24,8 +24,7 @@ To analyze the data, I used these tools:
 * Git & GitHub: To save my work and share it.
 # The Analysis
 I created 5 SQL queries to answer my questions. Here is what I did:
-
-1. Top Paying Jobs: Poland vs. Remote
+### 1. Top Paying Jobs: Poland vs. Remote
 I compared the top 7 highest-paying Data Science jobs in Poland with the top 7 remote jobs.
 
 * Goal: To see the salary difference between local and global markets.
@@ -71,7 +70,7 @@ UNION ALL
 ORDER BY
     salary_year_avg DESC;
 ```
-2. Skills for Top Paying Jobs
+### 2. Skills for Top Paying Jobs
 I checked what specific skills are required for these top jobs.
 
 * Key Findings: SQL and Python are the foundation. Cloud tools (Azure, AWS) are essential for top salaries.
@@ -136,8 +135,7 @@ LEFT JOIN skills_dim
 ORDER BY    
     salary_year_avg DESC;
 ```
-
-3. Most In-Demand Skills
+### 3. Most In-Demand Skills
 I looked for the most popular skills for Data Scientists in Poland and Remote jobs.
 
 * Goal: To find the skills that give the best chance of getting hired.
@@ -161,8 +159,7 @@ ORDER BY
       demand_count DESC
 LIMIT 5
 ```
-
-4. Highest Paying Skills
+### 4. Highest Paying Skills
 I calculated the average salary for different skills to see which ones pay the most.
 
 * Insight: Specialized skills (like Solidity or Elixir) often pay more than popular general skills.
@@ -187,7 +184,7 @@ ORDER BY
 LIMIT 25
 ```
 
-5. Optimal Skills
+### 5. Optimal skills
 I looked for the "perfect" skills. These are skills that are both in high demand AND pay well.
 
 * Strategy: I filtered for skills that appear in at least 10 job offers and ranked them by salary.
